@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.cc img{
+    width: 85%
+}
+.redft{
+    color: #DB4444;
+}
+.c {
+    display: flex;
+    /* justify-content: left; */
+  }
+  .cp{
+    color: #DB4444;
+  }
+  .ct{
+    font-family: 'Poppins', sans-serif;
+
+  }
+  .jbl img{
+    width: 85%
+}
+.cd:hover{
+  background-color: #DB4444;
+  color: white;
+}
+@media (orientation:portrait){
+    .cc {
+        
+       width: min-content;
+    
+}
+.jbl{
+    width: min-content;
+}
+
+}
